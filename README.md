@@ -22,7 +22,7 @@ This application consists of four tables: Categories, Products, Tags and Product
 
 #### Category
 
-![Categories](https://user-images.githubusercontent.com/78758382/116605826-88c50800-a8f5-11eb-81eb-d47e9372d736.png)
+![Categories](https://user-images.githubusercontent.com/78758382/116605959-adb97b00-a8f5-11eb-902c-154494389e4e.png)
 
 Categories describe the product type like shirts, pants, etc.
 
