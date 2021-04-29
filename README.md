@@ -34,7 +34,8 @@ Products refers to the actual products available in the e-commerce site. It incl
 
 #### Tags
 
-![Tags](https://user-images.githubusercontent.com/78758382/116605959-adb97b00-a8f5-11eb-902c-154494389e4e.png)
+![Tags](https://user-images.githubusercontent.com/78758382/116606503-713a4f00-a8f6-11eb-8fa2-0ba02de994bd.png)
+
 
 Tags are used to describe the products further. While categories explained what type of product each item is, tags describe product color like red, green, gold or the product description like whether the product is about rock or pop music.
 
