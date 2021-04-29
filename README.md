@@ -28,9 +28,11 @@ Products refers to the actual products available in the e-commerce site. It incl
 
 ![Tags]()
 
+Tags are used to describe the products further. While categories explained what type of product each item is, tags describe product color like red, green, gold or the product description like whether the product is about rock or pop music.
+
 ![Product Tags]()
 
-
+Product tags are where the information about what types of tags each product has is stored. Each product can have several product tags for each type of tag the product has. 
 
 <br>
 
