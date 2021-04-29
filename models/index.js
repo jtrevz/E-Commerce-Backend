@@ -29,8 +29,8 @@ Tag.belongsToMany(Product, {
     model: 'product_tag',
     unique: false
   },
-  as: ''
-})
+  as: 'product_type'
+});
 
 module.exports = {
   Product,
