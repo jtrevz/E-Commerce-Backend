@@ -2,7 +2,8 @@
 
 This API is a database that organizes product from an e-commerce site. The database organizes information into categories, products, and tags. This API allows client to create, read, update, and delete data based on their storage needs.
 
-![E-Commerce API]()
+![E-Commerce API](https://user-images.githubusercontent.com/78758382/116605742-69c67600-a8f5-11eb-81ab-8161aa41f22a.png)
+
 
 ## Table of Contents:
   * [Database](#database)
@@ -14,23 +15,32 @@ This API is a database that organizes product from an e-commerce site. The datab
 
 ### Database
 
-![Database]()
+![Database](https://user-images.githubusercontent.com/78758382/116605773-7519a180-a8f5-11eb-8c97-ff33890788c4.png)
+
 
 This application consists of four tables: Categories, Products, Tags and Product Tags.
 
-![Categories]()
+#### Category
+
+![Categories](https://user-images.githubusercontent.com/78758382/116605826-88c50800-a8f5-11eb-81eb-d47e9372d736.png)
 
 Categories describe the product type like shirts, pants, etc.
 
-![Products]()
+#### Products
+
+![Products](https://user-images.githubusercontent.com/78758382/116605869-97132400-a8f5-11eb-9dee-f3fbc871ddde.png)
 
 Products refers to the actual products available in the e-commerce site. It includes information like the product name, price, how much stock is available, and what category it belongs to.
 
-![Tags]()
+#### Tags
+
+![Tags](https://user-images.githubusercontent.com/78758382/116605959-adb97b00-a8f5-11eb-902c-154494389e4e.png)
 
 Tags are used to describe the products further. While categories explained what type of product each item is, tags describe product color like red, green, gold or the product description like whether the product is about rock or pop music.
 
-![Product Tags]()
+#### Product Tags
+
+![Product Tags](https://user-images.githubusercontent.com/78758382/116605999-b90ca680-a8f5-11eb-89fc-d7b274ea9609.png)
 
 Product tags are where the information about what types of tags each product has is stored. Each product can have several product tags for each type of tag the product has. 
 
@@ -38,7 +48,7 @@ Product tags are where the information about what types of tags each product has
 
 ### API
 
-![API]()
+![API](https://user-images.githubusercontent.com/78758382/116606034-c32ea500-a8f5-11eb-99c1-4f19928f0306.png)
 
 This application allows for client to create, update, read, and delete product information based on their needs. The client can use HTTP Request methods (Get, Post, Put, Delete) to make this happen and will receive information in JSON format.
 
